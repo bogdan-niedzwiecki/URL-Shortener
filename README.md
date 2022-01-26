@@ -1,1 +1,5 @@
-# [URL Shortener Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice)
+## Objective: Build a full stack JavaScript `Request Header Parser Microservice` app that is functionally similar to [this](https://request-header-parser-microservice.freecodecamp.rocks/).
+
+🔥 Live: https://boilerplate-project-urlshortener.bogdanniedzwiec.repl.co
+
+#backend#microservice#express#node#mongoDB#mongoose
